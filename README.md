@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hxs4y , 📍 Malaysia.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning the fundamentals of html, css and jvascript at my own pace. However, I'm currently pursuing my computer science studies.
+- 🌱 I’m currently learning the fundamentals of html, css and javascript at my own pace. However, I'm currently pursuing my computer science studies.
 - 💞️ I’m looking to learn and gain more skills and knowledges here ;)
 - 📫 Reach me at: https://twitter.com/_hxsy
 
